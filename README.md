@@ -1,1 +1,1 @@
-My first readme
+Pre-course readme
